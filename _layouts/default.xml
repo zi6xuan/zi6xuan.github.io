@@ -31,8 +31,8 @@
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.appstore_url }}" class="btn">App Store</a>
-        <a href="{{ site.google_play_url }}" class="btn">Googl Play</a>
+        <a href="{{ site.show_downloads.appstore_url }}" class="btn">App Store</a>
+        <a href="{{ site..show_downloads.google_play_url }}" class="btn">Googl Play</a>
       {% endif %}
     </header>
 
