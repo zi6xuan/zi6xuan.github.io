@@ -1,7 +1,7 @@
-## NAS Album
+## NAS 相册
 
-Automatically back up the contents of the album to any private NAS.
-- Support FTP/FTPS/SMBA protocol.
-- Support management of local and NAS album content (backup/delete).
-- Completely free (with ads).
-- Or you can choose the pure mode without ads (In the Settings screen to buy a one-time removal of advertising).
+自动备份相册内容到任意私有NAS。
+- 支持（ftp/ftps/smba）等协议。
+- 支持管理本地和NAS相册内容（备份/删除）。
+- 完全免费（有广告）。
+- 或者可以选择无广告纯净模式（在设置界面一次性购买去除广告）。

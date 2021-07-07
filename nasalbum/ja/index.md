@@ -1,7 +1,7 @@
-## NAS Album
+## NAS　アルバム
 
-Automatically back up the contents of the album to any private NAS.
-- Support FTP/FTPS/SMBA protocol.
-- Support management of local and NAS album content (backup/delete).
-- Completely free (with ads).
-- Or you can choose the pure mode without ads (In the Settings screen to buy a one-time removal of advertising).
+アルバムのコンテンツをプライベートNASに自動的にバックアップします。
+- FTP/FTPS/SMBAプロトコルをサポートします。
+- ローカルおよびNASアルバムコンテンツの管理をサポートします（バックアップ/削除）。
+- 完全無料（広告付き）。
+- または、広告なしの純粋モードを選択できます（設定画面で広告を一括購入する）。
