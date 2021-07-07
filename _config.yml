@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: NAS Album
 github: "false"
 show_downloads:
-  appstore_url: itms-apps://itunes.apple.com/developer/id1573717150
+  appstore_url: itms-apps://itunes.apple.com/app/id1573717150
   google_play_url: ""
