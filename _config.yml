@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: NAS Album
 github: "false"
-show_downloads: "https://apps.apple.com/us/app/id1573717150"
+show_downloads:
+  appstore_url: "https://apps.apple.com/us/app/id1573717150"
+  google_play_url: ""
