@@ -8,4 +8,4 @@ Automatically back up the contents of the album to any private NAS.
 
 ### [Usage][usage]
 
-[usage]:./usage.md
+[usage]:./usage
