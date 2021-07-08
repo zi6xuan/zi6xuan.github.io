@@ -8,4 +8,4 @@
 
 ### [使用問題について][usage]
 
-[usage]:./usage.md
+[usage]:./usage
