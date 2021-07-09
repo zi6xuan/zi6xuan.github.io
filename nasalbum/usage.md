@@ -1,3 +1,5 @@
+# NAS Album
+
 ### Usage
 - APP currently only supports FTP/FTPS protocol.
 - When setting the NAS address, it is necessary to create a folder ready to store photos in advance, and set full read and write permissions (only backup folders).
