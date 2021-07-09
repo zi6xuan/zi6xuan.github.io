@@ -1,4 +1,4 @@
-# NAS Album
+## NAS Album
 
 ### Usage
 - APP currently only supports FTP/FTPS protocol.
