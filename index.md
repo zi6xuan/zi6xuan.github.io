@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Jason
 
-You can use the [editor on GitHub](https://github.com/zi6xuan/zi6xuan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zi6xuan/zi6xuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 关于VoIP推送的一些问题
+- VoIP推送到达设备时，必须要提交给系统来显示电话到达，否则大量未上报的VoIP推送会导致后续的推送优先级越来越低
+- 如果发生了大量未上报VoIP推送的情况，可以通过完全卸载App并重新安装来解决
+- apple服务器的请求设置里 apns-expiration 最好设置为0，应该立即丢弃延时的Voip推送防止累计性问题导致优先度降低
+- apple服务器的请求设置里 apns-collapse-id 由于过期或者延时的VoIP最好时丢弃处理，所以不需要集合再发送
