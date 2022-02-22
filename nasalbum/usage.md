@@ -15,6 +15,3 @@
 - ![upload](./outline_upload.png) means the file is being uploaded
 - ![cloud](./outline_cloud_done.png) means that the file only exists in the NAS and does not exist in the local album
 - ![error](./outline_error_outline.png) indicates that an error occurred during the upload of the file. (you can try to upload again by pulling down the screen)
-
-### Questions about advertising
-- In order to provide better service and support, we have adopted two modes of [with ads] and [without ads]. The default mode is with ads. The ad-free mode can be activated through in-app purchases in the settings interface. New users have no full-screen ads within 3 days. After three days, full-screen ads will be displayed when the app is reopened. Here, thank you very much for your recognition of the results of our labor.
