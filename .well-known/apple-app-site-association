@@ -1,21 +1,11 @@
 {
     "applinks": {
-        "apps": [
-            "6JZHQY5J3N.com.jason.app.Sample"
-        ],
-        "components": [
-            {
-                "/": "/",
-                "exclude": false,
-                "comment": "Only root can open the app"
-            }
-        ],
-        "webcredentials": {},
+        "apps": [],
         "details": [
             {
-                "appID": "6JZHQY5J3N.com.jason.app.Sample",
+                "appID": "6JZHQY5J3N.com.jason.ios.app.Sample",
                 "paths": [
-                    "NOT /*"
+                    "*"
                 ]
             }
         ]
