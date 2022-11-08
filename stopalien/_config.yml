@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Jason's home"
+title: "Stop the alien"
 github: "false"
-include: [".well-known"]
 show_downloads: false
   # appstore_url: itms-apps://itunes.apple.com/app/id1573717150
   # google_play_url: ""
