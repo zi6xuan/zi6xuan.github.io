@@ -1,1 +1,5 @@
-ss
+{
+  "lives":[
+    {"name":"Japan","type":0,"url":"https://iptv-org.github.io/iptv/countries/jp.m3u"}
+  ]
+}
